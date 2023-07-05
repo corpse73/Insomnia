@@ -1,0 +1,30 @@
+_id: req_09bd9081f8df4e2aa10c008b69eb0ba5
+type: Request
+parentId: wrk_ebfcb01fbb4340b3a953b160f016ece6
+modified: 1684804602884
+created: 1684804075464
+url: https://fapi.10x10.co.kr/api/web/v1/timedeal/timedeal-kakao-joined
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    "evt_code": 123864,
+    "schedule_idx": 0,
+    "usercell": "010-5050-0307"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1684804075464
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

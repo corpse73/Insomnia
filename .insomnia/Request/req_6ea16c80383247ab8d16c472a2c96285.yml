@@ -1,0 +1,21 @@
+_id: req_6ea16c80383247ab8d16c472a2c96285
+type: Request
+parentId: wrk_ebfcb01fbb4340b3a953b160f016ece6
+modified: 1687134881549
+created: 1686895302580
+url: https://fapi.10x10.co.kr/api/web/v2/best/list?cate_code=104&current_page=1
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1686895302580
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

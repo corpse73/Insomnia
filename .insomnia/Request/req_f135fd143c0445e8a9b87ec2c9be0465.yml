@@ -1,0 +1,21 @@
+_id: req_f135fd143c0445e8a9b87ec2c9be0465
+type: Request
+parentId: wrk_ebfcb01fbb4340b3a953b160f016ece6
+modified: 1686798087445
+created: 1686798077039
+url: https://gateway.10x10.co.kr/v1/event/apis/app-exclusive-event/124101
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1686798077039
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

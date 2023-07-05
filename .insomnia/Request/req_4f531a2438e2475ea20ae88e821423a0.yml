@@ -1,0 +1,29 @@
+_id: req_4f531a2438e2475ea20ae88e821423a0
+type: Request
+parentId: wrk_ebfcb01fbb4340b3a953b160f016ece6
+modified: 1678844314954
+created: 1678841503023
+url: http://testfapi.10x10.co.kr/api/web/v2/event/everyday-mileage
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_cbe7da54d0dc4395bfb226c8778a9445
+    name: event_code
+    value: "119260"
+    description: ""
+headers:
+  - id: pair_1dd15497b52b4daca4ceb5e3907071a5
+    name: ""
+    value: ""
+    description: ""
+authentication: {}
+metaSortKey: -1678841503023
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

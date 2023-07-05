@@ -1,0 +1,21 @@
+_id: req_3d1fcf9d254e4fd79ba0aea7c4453ab7
+type: Request
+parentId: wrk_ebfcb01fbb4340b3a953b160f016ece6
+modified: 1679532460318
+created: 1679532448556
+url: http://testfapi.10x10.co.kr:8080/api/admin/v1/mobileSite/play/list?page=1&page_size=10&period=1&uinumber=0&contentsnumber=0&stateflag=0&searchkey=1
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1679532448556
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

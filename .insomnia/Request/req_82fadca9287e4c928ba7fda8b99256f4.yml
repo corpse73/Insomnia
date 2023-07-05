@@ -1,0 +1,29 @@
+_id: req_82fadca9287e4c928ba7fda8b99256f4
+type: Request
+parentId: wrk_ebfcb01fbb4340b3a953b160f016ece6
+modified: 1687509614142
+created: 1687508480265
+url: https://gateway.10x10.co.kr/v1/event/apis/first-order-shop/order-check/5192369
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_5ea8f28ebe8149f4b21500d74388177f
+    name: eventCode
+    value: "107535"
+    description: ""
+headers:
+  - id: pair_fe4b3c8835fc46b293c5e3a6c30bf155
+    name: session-id
+    value: 10x10vip
+    description: ""
+authentication: {}
+metaSortKey: -1687508480265
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

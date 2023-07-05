@@ -1,0 +1,21 @@
+_id: req_78bd3dcfe15f402bb08141f7e28780e3
+type: Request
+parentId: wrk_ebfcb01fbb4340b3a953b160f016ece6
+modified: 1680166229698
+created: 1680166155660
+url: https://fapi.10x10.co.kr/api/web/v1/event/sub-category-of-items?masterCode=24&detailCodes=606&deviceType=MOBILE
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1680166155660
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

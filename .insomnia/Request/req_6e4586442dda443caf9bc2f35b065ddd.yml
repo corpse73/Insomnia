@@ -1,0 +1,38 @@
+_id: req_6e4586442dda443caf9bc2f35b065ddd
+type: Request
+parentId: wrk_ebfcb01fbb4340b3a953b160f016ece6
+modified: 1688525510496
+created: 1682299940666
+url: https://gateway.10x10.co.kr/payment/apis/galaxia/receive-payment/
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "amt": "Sw05BQqa1VLCg1PTleRnoQ==",
+      "barcode": "POAAIw8y8/2qcUBP/+tEdg==",
+      "cvsCode": "CS10000005",
+      "dealDate": "20230705",
+      "dealTime": "113700",
+      "msgId": "1020",
+      "msgVer": "1000",
+      "payType": "1",
+      "reservedData": "",
+      "settleDate": "20230705",
+      "transactionNo": "oU6U9ol8YV/egzONvIY2/g=="
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1682299940666
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

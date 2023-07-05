@@ -1,0 +1,21 @@
+_id: req_91b8cf07c06e4c7d843134f2d646a681
+type: Request
+parentId: wrk_ebfcb01fbb4340b3a953b160f016ece6
+modified: 1680164010990
+created: 1680164007709
+url: https://gateway.10x10.co.kr/v1/event/apis/exhibition-brand-group/24
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1680164007709
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

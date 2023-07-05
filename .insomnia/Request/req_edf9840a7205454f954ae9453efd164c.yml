@@ -1,0 +1,25 @@
+_id: req_edf9840a7205454f954ae9453efd164c
+type: Request
+parentId: wrk_ebfcb01fbb4340b3a953b160f016ece6
+modified: 1688464126315
+created: 1681370409583
+url: https://gateway.10x10.co.kr/payment/apis/galaxia/encrypt/
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: "37694042"
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1681370409583
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_4cf8282ef467424788526db1e7b15e40
+type: Request
+parentId: wrk_ebfcb01fbb4340b3a953b160f016ece6
+modified: 1681378109474
+created: 1681378098666
+url: https://gateway.10x10.co.kr/v1/product/apis/deal/5367746/coupons?isLoginUser=false
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1681378098666
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

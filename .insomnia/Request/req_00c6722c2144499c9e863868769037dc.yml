@@ -1,0 +1,21 @@
+_id: req_00c6722c2144499c9e863868769037dc
+type: Request
+parentId: wrk_ebfcb01fbb4340b3a953b160f016ece6
+modified: 1687242776799
+created: 1687242657454
+url: https://gateway-dev.10x10.co.kr/v1/event/apis/first-order-shop/item-list/30/301
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1687242657454
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

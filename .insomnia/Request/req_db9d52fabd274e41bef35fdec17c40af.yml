@@ -1,0 +1,25 @@
+_id: req_db9d52fabd274e41bef35fdec17c40af
+type: Request
+parentId: wrk_ebfcb01fbb4340b3a953b160f016ece6
+modified: 1683013145087
+created: 1681433959684
+url: https://scm.10x10.co.kr
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_e0629742236944149679dda8ee809f75
+    name: evt_code
+    value: "123457"
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1681433959684
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

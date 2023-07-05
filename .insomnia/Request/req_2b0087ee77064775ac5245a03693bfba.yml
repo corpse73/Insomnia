@@ -1,0 +1,42 @@
+_id: req_2b0087ee77064775ac5245a03693bfba
+type: Request
+parentId: wrk_ebfcb01fbb4340b3a953b160f016ece6
+modified: 1688008469772
+created: 1686554450361
+url: https://gateway.10x10.co.kr/v1/event/apis/event-subscript
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "device": "A",
+      "eventCode": 107535,
+      "id": 0,
+      "subOption1": "order",
+      "subOption2": 0,
+      "subOption3": "5541539",
+      "userId": "",
+    	"duplicationField1": "N",
+    	"duplicationField2": "N",
+    	"duplicationField3": "N"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_dec556ff910f4955b7541cf702cef225
+  - id: pair_776d9b1c6f174bafa806f3bffced6449
+    name: session-id
+    value: corpse2
+    description: ""
+authentication: {}
+metaSortKey: -1686554450361
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

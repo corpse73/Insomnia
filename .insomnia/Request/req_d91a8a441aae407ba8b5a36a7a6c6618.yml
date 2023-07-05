@@ -1,0 +1,21 @@
+_id: req_d91a8a441aae407ba8b5a36a7a6c6618
+type: Request
+parentId: wrk_ebfcb01fbb4340b3a953b160f016ece6
+modified: 1677733232321
+created: 1677733173194
+url: https://fapi.10x10.co.kr/api/web/v1/user/my-sns-receive-state
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1677733173194
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

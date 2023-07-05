@@ -1,0 +1,39 @@
+_id: req_c8ec95cf294a466f90a64cbdf485570d
+type: Request
+parentId: wrk_ebfcb01fbb4340b3a953b160f016ece6
+modified: 1681784193425
+created: 1681372143908
+url: https://tapi.cashgate.co.kr/numIssue
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    "msgId":"2010",
+    "msgVer":"1000",
+    "transactionNo":"4HQMVUKUf3otO+Tw2Qtaew==",
+    "custCode":"CS10000673",
+    "itemCode":"G00433",
+    "dealDate":"20230414",
+    "dealTime":"093900",
+    "itemInfo":"[최고심] [씰스티커] 얼렁뚱땅",
+    "amt":"zkv9eWumnkB2ciQ9ofkGVA==",
+    "smsFlag":"0",
+    "expirationDate":"20230421",
+    "reservedData":""
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1681372143908
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
