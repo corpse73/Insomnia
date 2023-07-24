@@ -1,0 +1,21 @@
+_id: req_2168a6b7e2e0482fba13cf75743c8515
+type: Request
+parentId: wrk_ebfcb01fbb4340b3a953b160f016ece6
+modified: 1690167136905
+created: 1690167127406
+url: https://gateway.10x10.co.kr/v1/event/apis/random-coupon/119314
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1690167127406
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

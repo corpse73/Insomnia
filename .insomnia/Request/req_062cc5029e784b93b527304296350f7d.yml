@@ -1,0 +1,25 @@
+_id: req_062cc5029e784b93b527304296350f7d
+type: Request
+parentId: wrk_ebfcb01fbb4340b3a953b160f016ece6
+modified: 1690159447353
+created: 1690159336036
+url: https://gateway-dev.10x10.co.kr/v1/event/apis/random-coupon/119314
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_d4543ec6b1bc4aec8b997b04aaffa9f7
+    name: session-id
+    value: corpse2
+    description: ""
+authentication: {}
+metaSortKey: -1690159336036
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
